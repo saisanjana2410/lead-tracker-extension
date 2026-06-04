@@ -118,20 +118,3 @@ Saved leads remain available even after closing and reopening the browser.
 ```
 
 The `tabs` permission is required to access and save the URL of the currently active browser tab.
-
----
-
-## Future Improvements
-
-* Edit saved leads
-* Delete individual leads
-* Export leads to CSV
-* Search and filter functionality
-* Sync data across devices
-* Dark mode support
-
----
-
-## License
-
-This project is open source and available under the MIT License.
