@@ -57,7 +57,7 @@ lead-tracker-extension/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/lead-tracker-extension.git
+git clone https://github.com/saisanjana2410/lead-tracker-extension.git
 ```
 
 2. Open Chrome and navigate to:
